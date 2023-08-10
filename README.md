@@ -31,7 +31,9 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 
 # Snapshot
 
-[![Book Search]()]
+![Screenshot of deployed application](https://github.com/Fergus-Codes/Book-Search-Engine-MERN/assets/124581010/0b8eeaa8-833b-4af7-accb-ee2acf8127b3)
+
+
 
 # Installation & Database SetUp
 
