@@ -8,9 +8,7 @@
 - [Installation & Database SetUp](#Installation)
 - [Heroku](#Heroku)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+
 
 ## Tools Used
 
@@ -51,15 +49,6 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-# Contributing
-
-​Contributors: N/A
-
-# Tests
-
-N/A
-
-# Questions?
 
 ## Please contact me:
 
